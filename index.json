@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "packs": [
+    {
+      "title_id": "0400486024dec000",
+      "game_version": "2.0.0",
+      "build": "Lichii b317c13e03-master ",
+      "cache_version": 54,
+      "url": "https://github.com/TuxArchi/Lichii-Shader-Packs/releases/download/packs-v1/zelda-oot-2.0.0.shaderpack.json",
+      "sha256": "948a075829e8757fef0a0a5dccc3d4fc1da43b0482263ac40bcbafde729746c2",
+      "size": 10423249,
+      "pipelines": 2650,
+      "created": ""
+    }
+  ]
+}
